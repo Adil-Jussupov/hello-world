@@ -2,10 +2,10 @@
 My first project for CS342 / MED253 - Building for Digital Health
 
 
-# Adil Jussupov
-## MS Engineering
+# My name is Adil Jussupov
+## MS Design Engineering
 
 
 **I like IOS coding**
 
-[title](https://www.Jussupov.com)
+This is a link to [my portfolio website](https://www.Jussupov.com)
